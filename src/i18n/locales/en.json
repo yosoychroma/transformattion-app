@@ -1,0 +1,414 @@
+{
+  "welcome": "Welcome to Transformattion",
+  "nav": {
+    "about": "About Us",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "servicesTitle": "Our Services",
+  "services": {
+    "web": {
+      "title": "Web Development",
+      "description": "Modern and responsive web applications with cutting-edge technologies"
+    },
+    "mobile": {
+      "title": "Mobile Development",
+      "description": "Native and cross-platform apps for iOS and Android"
+    },
+    "cloud": {
+      "title": "Cloud Solutions",
+      "description": "Scalable infrastructure and cloud services on AWS, Azure, and GCP"
+    },
+    "ai": {
+      "title": "Artificial Intelligence",
+      "description": "AI and Machine Learning solutions to optimize processes"
+    },
+    "security": {
+      "title": "Cybersecurity",
+      "description": "Data and systems protection with international standards"
+    },
+    "data": {
+      "title": "Big Data",
+      "description": "Management and analysis of large data volumes"
+    },
+    "analytics": {
+      "title": "Analytics & BI",
+      "description": "Data insights and visualization for decision making"
+    },
+    "devops": {
+      "title": "DevOps",
+      "description": "Development process automation and optimization"
+    },
+    "desktop": {
+      "title": "Desktop Software",
+      "description": "Robust applications for Windows, macOS, and Linux"
+    },
+    "consulting": {
+      "title": "IT Consulting",
+      "description": "Expert advice on digital transformation"
+    },
+    "maintenance": {
+      "title": "Maintenance",
+      "description": "Continuous support and system updates"
+    },
+    "innovation": {
+      "title": "R&D",
+      "description": "Research and development of innovative solutions"
+    }
+  },
+  "years": "8 years of excellence in software development",
+  "testimonials": "Testimonials",
+  "testimonialsData": {
+    "alfredo": {
+      "text": "Transformattion's ability to understand our needs and convert them into effective technological solutions has been exceptional. Their focus on quality and attention to detail has completely transformed our digital infrastructure.",
+      "author": "Alfredo Martínez",
+      "position": "CTO, TechVision"
+    },
+    "ciro": {
+      "text": "Working with the Transformattion team has been an extraordinary experience. Their professionalism and technical knowledge are impressive, but what really sets them apart is their commitment to client success.",
+      "author": "Ciro Rodríguez",
+      "position": "CEO, Innovatech Solutions"
+    },
+    "daniel": {
+      "text": "The experience and dedication of the Transformattion team have been fundamental to the success of our projects. Their ability to adapt to new challenges and propose innovative solutions is truly remarkable.",
+      "author": "Daniel Vega",
+      "position": "Project Manager, Digital Ventures"
+    },
+    "dante": {
+      "text": "Transformattion has proven to be an exceptional technology partner. Their methodical approach and ability to deliver high-quality results have helped us achieve our business objectives.",
+      "author": "Dante Silva",
+      "position": "CTO, Future Systems"
+    },
+    "francisca": {
+      "text": "Collaboration with Transformattion has been key to our digital transformation. Their team not only brings technical excellence but also a strategic vision that has been invaluable.",
+      "author": "Francisca Torres",
+      "position": "Innovation Director, NextGen Corp"
+    },
+    "gladys": {
+      "text": "Transformattion's commitment to excellence is evident in every project. Their team not only meets objectives but consistently exceeds expectations with innovative solutions.",
+      "author": "Gladys Mendoza",
+      "position": "COO, Digital Solutions"
+    },
+    "igor": {
+      "text": "Transformattion's ability to handle complex projects and deliver exceptional results is impressive. Their team combines technical expertise with a deep understanding of business needs.",
+      "author": "Igor Petrov",
+      "position": "Lead Architect, Tech Innovations"
+    },
+    "mauricio": {
+      "text": "From day one, Transformattion demonstrated why they are leaders in the industry. Their focus on innovation and quality, along with excellent customer service, makes them an invaluable technology partner.",
+      "author": "Mauricio Sánchez",
+      "position": "Operations Director, Global Tech"
+    },
+    "gonzalo": {
+      "text": "I had the opportunity to work with Ignacio during the last year, and it was a true pleasure to collaborate with someone of his level of professionalism and commitment. From day one, he showed a constant willingness to help and contribute, standing out for his analytical capacity and empathetic approach to teamwork.",
+      "author": "Gonzalo Muñoz Hernandez",
+      "position": "MBA (c) Wholesale Strategy and Business Project Leader"
+    },
+    "marcos": {
+      "text": "I had the pleasure of working with Ignacio on a project for Banco BCI related to API notifications. From the start, Ignacio proved to be an exceptional professional, with great commitment, technical capability, and focus on problem-solving.",
+      "author": "Marcos Gaete Toledo",
+      "position": "Data Engineer at Banco Bci"
+    },
+    "patricia": {
+      "text": "Ignacio is an excellent professional, possessing solid knowledge as well as soft skills: Leader and excellent teammate.",
+      "author": "Patricia Silva Vergara",
+      "position": "QA Automation Engineer, ISTQB Certified and Software Quality Diploma, Universidad de Chile"
+    },
+    "johanna": {
+      "text": "I had the pleasure of working with Ignacio on various projects/developments in the area. Always proactive, putting in a lot of effort participating in different solutions and contributing his vision to implement them.",
+      "author": "Johanna Palacio",
+      "position": "SOA Developer at GlobalLogic"
+    },
+    "nicolas": {
+      "text": "Ignacio is an impeccable professional. Tremendously responsible and proactive. He quickly takes ownership and handles topics as if he had always been there working.",
+      "author": "Nicolás Andrés Pérez Urzúa",
+      "position": "Product Owner Open Banking at Banco Bci"
+    },
+    "eduardo": {
+      "text": "Ignacio is a great professional, he takes ownership of projects and quickly takes control of them. He has a great capacity for learning. I can also highlight his kindness and good communication to build relationships with other teams.",
+      "author": "Eduardo Vergara",
+      "position": "Integration Lead Engineer at BCI"
+    },
+    "simon": {
+      "text": "I had the pleasure of working with Ignacio in a Migration Cell, where he performed the role of developer. As his technical leader, I can affirm that he is a very good professional. He is skilled in both front-end and back-end, delivering quality work.",
+      "author": "Simon Riquelme",
+      "position": "Senior Full Stack Developer"
+    },
+    "bastian": {
+      "text": "Ignacio is a great professional with his knowledge and personality...",
+      "author": "Bastian Valenzuela Herrera",
+      "position": "Big Data Engineer | MSc Big Data & Data Science"
+    },
+    "daniel": {
+      "text": "Ignacio is an excellent professional who quickly takes ownership...",
+      "author": "Daniel Acosta Caprario",
+      "position": "IT Business Partner for Wholesale & Investment Banking at Bci"
+    },
+    "ciro": {
+      "text": "Excellent developer and great teammate...",
+      "author": "Ciro Cayo De León Burgos",
+      "position": "Software Engineer | Java Senior Developer | Full Stack Senior Developer | Backend Developer"
+    },
+    "francisca": {
+      "text": "During our time working together, I heard nothing but great feedback...",
+      "author": "Francisca Rojas López",
+      "position": "HR at Aligare"
+    },
+    "gladys": {
+      "text": "I had the pleasure of working with Ignacio on a challenging project...",
+      "author": "Gladys Marina Pérez Canelón",
+      "position": "BI Developer at Banco Internacional"
+    },
+    "miguel": {
+      "text": "I can't help but mention how grateful I am...",
+      "author": "Miguel Camiletti Mellado",
+      "position": "Product Owner Professional Certificate"
+    },
+    "dante": {
+      "text": "During his time at the Environmental Assessment Service...",
+      "author": "Dante Duarte Huircán",
+      "position": "Computer Engineer"
+    },
+    "igor": {
+      "text": "Excellent professional, always willing to help...",
+      "author": "Igor Rios San Martin",
+      "position": "Senior Consultant at SII Group"
+    },
+    "alfredo": {
+      "text": "Good professional, committed to work...",
+      "author": "Alfredo Perez Oñate",
+      "position": "Senior Software Developer at Connectis"
+    },
+    "mauricio": {
+      "text": "Excellent technical professional and great person",
+      "author": "Mauricio Pozo Marquez",
+      "position": "Metlife"
+    },
+    "simon": {
+      "text": "I had the pleasure of working with Ignacio in a Migration Cell...",
+      "author": "Simon Riquelme",
+      "position": "Senior Full Stack Developer | Angular | ReactJS | NodeJS"
+    }
+  },
+  "timeline": "Our Journey",
+  "readMore": "Read More",
+  "footer": {
+    "description": "8 years of excellence in software development",
+    "contact": "Contact Us",
+    "quickLinks": {
+      "title": "Quick Links",
+      "about": "About Us",
+      "services": "Services",
+      "portfolio": "Portfolio",
+      "contact": "Contact"
+    },
+    "rights": "All rights reserved",
+    "address": "123 Tech Street, Innovation City"
+  },
+  "search": {
+    "placeholder": "Search..."
+  },
+  "booking": {
+    "title": "Book a Consultation",
+    "name": "Name",
+    "nameInfo": "As it appears on your ID",
+    "namePlaceholder": "Ex: John Smith",
+    "email": "Email",
+    "emailInfo": "We'll send confirmation here",
+    "emailPlaceholder": "your.email@example.com",
+    "service": "Service",
+    "selectService": "Select a service",
+    "date": "Date",
+    "dateInfo": "Select an available date",
+    "time": "Time",
+    "timeInfo": "Select an available time slot",
+    "selectTime": "Select a time",
+    "notes": "Additional Notes",
+    "notesInfo": "Optional - Tell us more about your project",
+    "notesPlaceholder": "Briefly describe your project or any additional information you consider relevant...",
+    "submit": "Book Appointment",
+    "success": "Your appointment has been booked successfully! We'll contact you soon.",
+    "errors": {
+      "nameRequired": "Name is required",
+      "nameLength": "Name must be at least 2 characters long",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email address",
+      "serviceRequired": "Please select a service",
+      "dateRequired": "Date is required",
+      "datePast": "Date cannot be in the past",
+      "timeRequired": "Please select a time",
+      "submitError": "There was an error submitting the form. Please try again."
+    },
+    "timePeriods": {
+      "morning": "Morning (9:00 AM - 12:00 PM)",
+      "afternoon": "Afternoon (2:00 PM - 5:00 PM)"
+    }
+  },
+  "about": {
+    "title": "Driving Digital Innovation",
+    "subtitle": "Transforming Ideas into Impactful Technology Solutions",
+    "description": "At Transformattion, we combine technical expertise with creativity to develop solutions that drive our clients' success.",
+    "journey": {
+      "title": "Our Journey",
+      "milestones": {
+        "2017": {
+          "title": "The Beginning",
+          "description": "Transformattion founded with a team of 3 developers passionate about technological innovation."
+        },
+        "2018": {
+          "title": "First Successes",
+          "description": "Team expansion and first international projects. AWS and Microsoft partnership certification."
+        },
+        "2019": {
+          "title": "Innovation and Growth",
+          "description": "New office opening and launch of our mobile development division. +20 successful projects."
+        },
+        "2020": {
+          "title": "Adaptation and Resilience",
+          "description": "Successful transition to remote work. Implementation of advanced agile and DevOps methodologies."
+        },
+        "2021": {
+          "title": "Technological Expansion",
+          "description": "Integration of cloud services and AI solutions. First Machine Learning projects."
+        },
+        "2022": {
+          "title": "Global Consolidation",
+          "description": "Expansion to new international markets. ISO 27001 certification in information security."
+        },
+        "2023": {
+          "title": "Continuous Innovation",
+          "description": "Launch of our cloud services platform. +100 successful projects and global presence."
+        },
+        "2024": {
+          "title": "AI Revolution",
+          "description": "Launch of our AI lab and development of proprietary Machine Learning solutions. Implementation of advanced predictive systems."
+        },
+        "2025": {
+          "title": "Product Factory",
+          "description": "Creation of our digital products division. Development of innovative SaaS and scalable enterprise solutions."
+        }
+      }
+    },
+    "stats": {
+      "projects": "Successful Projects",
+      "clients": "Happy Clients",
+      "countries": "Countries",
+      "team": "Experts"
+    },
+    "values": {
+      "title": "Our Values",
+      "innovation": {
+        "title": "Innovation",
+        "description": "Constantly seeking new ways to solve technological challenges"
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "Committed to the highest quality standards"
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "Working closely with our clients"
+      },
+      "integrity": {
+        "title": "Integrity",
+        "description": "Transparency and ethics in everything we do"
+      }
+    }
+  },
+  "chat": {
+    "title": "Live Chat",
+    "online": "We're online",
+    "offline": "Currently offline",
+    "placeholder": "Type your message...",
+    "autoResponse": "Thanks for your message! One of our advisors will assist you shortly. Meanwhile, is there anything specific we can help you with?",
+    "startMessage": "Hi there! 👋 Welcome to Transformattion. How can we help you today?",
+    "emailPrompt": "Please leave your email to contact you:",
+    "send": "Send",
+    "thankYou": "Thank you for contacting us",
+    "helpText": "Need help?"
+  },
+  "clients": {
+    "title": "Our Industries",
+    "industries": {
+      "all": "All",
+      "tech": "Technology",
+      "finance": "Banking & Finance",
+      "healthcare": "Healthcare",
+      "retail": "Retail",
+      "education": "Education"
+    },
+    "logos": [
+      {
+        "name": "Aligare",
+        "image": "/images/enterprises/aligare.jpg",
+        "industry": "tech"
+      },
+      {
+        "name": "Axity",
+        "image": "/images/enterprises/axity.jpg",
+        "industry": "tech"
+      },
+      {
+        "name": "Banco Chile",
+        "image": "/images/enterprises/banco_chile.jpg",
+        "industry": "finance"
+      },
+      {
+        "name": "Banco Estado",
+        "image": "/images/enterprises/banco_estado.jpg",
+        "industry": "finance"
+      },
+      {
+        "name": "BCI",
+        "image": "/images/enterprises/bci.jpg",
+        "industry": "finance"
+      },
+      {
+        "name": "Glencore",
+        "image": "/images/enterprises/glencore.jpg",
+        "industry": "tech"
+      },
+      {
+        "name": "Kibernum",
+        "image": "/images/enterprises/kibernum.jpg",
+        "industry": "tech"
+      },
+      {
+        "name": "Kyndryl",
+        "image": "/images/enterprises/kyndryl.jpg",
+        "industry": "tech"
+      },
+      {
+        "name": "Neoris",
+        "image": "/images/enterprises/neoris.jpg",
+        "industry": "tech"
+      },
+      {
+        "name": "SEA",
+        "image": "/images/enterprises/sea.jpg",
+        "industry": "tech"
+      },
+      {
+        "name": "UCChristus",
+        "image": "/images/enterprises/ucchristus.jpg",
+        "industry": "healthcare"
+      },
+      {
+        "name": "Cencosud",
+        "image": "/images/enterprises/cencosud.jpg",
+        "industry": "retail"
+      },
+      {
+        "name": "DGI",
+        "image": "/images/enterprises/dji.jpg",
+        "industry": "tech"
+      },
+      {
+        "name": "Entel",
+        "image": "/images/enterprises/entel.jpg",
+        "industry": "tech"
+      }
+    ]
+  }
+}

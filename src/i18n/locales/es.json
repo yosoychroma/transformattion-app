@@ -1,0 +1,370 @@
+{
+  "welcome": "Bienvenido a Transformattion",
+  "nav": {
+    "about": "Sobre Nosotros",
+    "services": "Servicios",
+    "portfolio": "Portafolio",
+    "contact": "Contacto"
+  },
+  "servicesTitle": "Nuestros Servicios",
+  "services": {
+    "web": {
+      "title": "Desarrollo Web",
+      "description": "Aplicaciones web modernas y responsivas con las últimas tecnologías"
+    },
+    "mobile": {
+      "title": "Desarrollo Móvil",
+      "description": "Apps nativas y multiplataforma para iOS y Android"
+    },
+    "cloud": {
+      "title": "Soluciones Cloud",
+      "description": "Infraestructura escalable y servicios cloud en AWS, Azure y GCP"
+    },
+    "ai": {
+      "title": "Inteligencia Artificial",
+      "description": "Soluciones de IA y Machine Learning para optimizar procesos"
+    },
+    "security": {
+      "title": "Ciberseguridad",
+      "description": "Protección de datos y sistemas con estándares internacionales"
+    },
+    "data": {
+      "title": "Big Data",
+      "description": "Gestión y análisis de grandes volúmenes de datos"
+    },
+    "analytics": {
+      "title": "Analytics & BI",
+      "description": "Insights y visualización de datos para toma de decisiones"
+    },
+    "devops": {
+      "title": "DevOps",
+      "description": "Automatización y optimización de procesos de desarrollo"
+    },
+    "desktop": {
+      "title": "Software de Escritorio",
+      "description": "Aplicaciones robustas para Windows, macOS y Linux"
+    },
+    "consulting": {
+      "title": "Consultoría IT",
+      "description": "Asesoramiento experto en transformación digital"
+    },
+    "maintenance": {
+      "title": "Mantenimiento",
+      "description": "Soporte continuo y actualización de sistemas"
+    },
+    "innovation": {
+      "title": "I+D+i",
+      "description": "Investigación y desarrollo de soluciones innovadoras"
+    }
+  },
+  "booking": {
+    "title": "Reserva una Consulta",
+    "name": "Nombre",
+    "nameInfo": "Como aparece en tu documento de identidad",
+    "namePlaceholder": "Ej: Juan Pérez",
+    "email": "Correo Electrónico",
+    "emailInfo": "Te enviaremos la confirmación aquí",
+    "emailPlaceholder": "tu.email@ejemplo.com",
+    "service": "Servicio",
+    "selectService": "Selecciona un servicio",
+    "date": "Fecha",
+    "dateInfo": "Selecciona una fecha disponible",
+    "time": "Hora",
+    "timeInfo": "Selecciona un horario disponible",
+    "selectTime": "Selecciona una hora",
+    "notes": "Notas adicionales",
+    "notesInfo": "Opcional - Cuéntanos más sobre tu proyecto",
+    "notesPlaceholder": "Describe brevemente tu proyecto o cualquier información adicional que consideres relevante...",
+    "submit": "Reservar Cita",
+    "success": "¡Tu cita ha sido reservada con éxito! Te contactaremos pronto.",
+    "errors": {
+      "nameRequired": "El nombre es requerido",
+      "nameLength": "El nombre debe tener al menos 2 caracteres",
+      "emailRequired": "El correo electrónico es requerido",
+      "emailInvalid": "Por favor ingresa un correo electrónico válido",
+      "serviceRequired": "Por favor selecciona un servicio",
+      "dateRequired": "La fecha es requerida",
+      "datePast": "La fecha no puede ser en el pasado",
+      "timeRequired": "Por favor selecciona una hora",
+      "submitError": "Hubo un error al enviar el formulario. Por favor intenta de nuevo."
+    },
+    "timePeriods": {
+      "morning": "Mañana (9:00 - 12:00)",
+      "afternoon": "Tarde (14:00 - 17:00)"
+    }
+  },
+  "contact": "Contacto",
+  "years": "8 años de excelencia en desarrollo de software",
+  "testimonials": "Testimonios",
+  "testimonialsData": {
+    "gonzalo": {
+      "text": "Tuve la oportunidad de trabajar con Ignacio durante el ultimo año...",
+      "author": "Gonzalo Muñoz Hernandez",
+      "position": "MBA (c) Líder de Proyectos Estrategia y Negocio Wholesale"
+    },
+    "marcos": {
+      "text": "Tuve el agrado de trabajar con Ignacio en un proyecto para el Banco BCI...",
+      "author": "Marcos Gaete Toledo",
+      "position": "Data Engineer en Banco Bci"
+    },
+    "patricia": {
+      "text": "Ignacio es un excelente profesional...",
+      "author": "Patricia Silva Vergara",
+      "position": "QA Automatizador, Certificación ISTQB y Diplomado en Calidad de Software, Universidad de Chile"
+    },
+    "johanna": {
+      "text": "Tuve el agrado de trabajar con ignacio en varios proyectos...",
+      "author": "Johanna Palacio",
+      "position": "SOA Developer en GlobalLogic"
+    },
+    "nicolas": {
+      "text": "Ignacio es un profesional impecable...",
+      "author": "Nicolás Andrés Pérez Urzúa",
+      "position": "Product Owner Open Banking en Banco Bci"
+    },
+    "eduardo": {
+      "text": "Ignacio es un gran profesional...",
+      "author": "Eduardo Vergara",
+      "position": "Ingeniero Líder de Integración en BCI"
+    },
+    "bastian": {
+      "text": "Ignacio es gran profesional con su conocimiento y su personalidad...",
+      "author": "Bastian Valenzuela Herrera",
+      "position": "Big Data Engineer | MSc Big Data & Data Science"
+    },
+    "daniel": {
+      "text": "Ignacio es un excelente profesional que se empodera rápidamente...",
+      "author": "Daniel Acosta Caprario",
+      "position": "IT Business Partner para Wholesale & Investment Banking en Bci"
+    },
+    "ciro": {
+      "text": "Excelente desarrollador y buen compañero...",
+      "author": "Ciro Cayo De León Burgos",
+      "position": "Software Engineer | Java Senior Developer | Full Stack Senior Developer | Backend Developer"
+    },
+    "francisca": {
+      "text": "El tiempo que trabajamos juntos no escuché nada aparte de muy buenos comentarios...",
+      "author": "Francisca Rojas López",
+      "position": "RRHH en Aligare"
+    },
+    "gladys": {
+      "text": "Tuve el placer de trabajar con Ignacio en un proyecto desafiante...",
+      "author": "Gladys Marina Pérez Canelón",
+      "position": "Desarrollador BI en Banco Internacional"
+    },
+    "miguel": {
+      "text": "Nunca está demás mencionar lo agradecido que estoy de ti...",
+      "author": "Miguel Camiletti Mellado",
+      "position": "Product Owner Professional Certificate"
+    },
+    "dante": {
+      "text": "Durante su tiempo en el Servicio de Evaluación Ambiental...",
+      "author": "Dante Duarte Huircán",
+      "position": "Ingeniero Informático"
+    },
+    "igor": {
+      "text": "Excelente profesional, siempre dispuesto a ayudar...",
+      "author": "Igor Rios San Martin",
+      "position": "Consultor Senior en SII Group"
+    },
+    "alfredo": {
+      "text": "Buen profesional, comprometido con el trabajo...",
+      "author": "Alfredo Perez Oñate",
+      "position": "Desarrollador de Software Senior en Connectis"
+    },
+    "mauricio": {
+      "text": "Excelente profesional muy técnico, además de gran persona",
+      "author": "Mauricio Pozo Marquez",
+      "position": "Metlife"
+    },
+    "simon": {
+      "text": "Tuve el placer de trabajar con Ignacio en una Célula de migraciones...",
+      "author": "Simon Riquelme",
+      "position": "Senior Full Stack Developer | Angular | ReactJS | NodeJS"
+    }
+  },
+  "timeline": "Nuestra Trayectoria",
+  "readMore": "Leer Más",
+  "footer": {
+    "description": "8 años de excelencia en desarrollo de software",
+    "contact": "Contáctanos",
+    "quickLinks": {
+      "title": "Enlaces Rápidos",
+      "about": "Sobre Nosotros",
+      "services": "Servicios",
+      "portfolio": "Portafolio",
+      "contact": "Contacto"
+    },
+    "rights": "Todos los derechos reservados",
+    "address": "Calle Tecnología 123, Ciudad Innovación"
+  },
+  "search": {
+    "placeholder": "Buscar..."
+  },
+  "about": {
+    "title": "Impulsando la Innovación Digital",
+    "subtitle": "Transformando Ideas en Soluciones Tecnológicas de Impacto",
+    "description": "En Transformattion, combinamos experiencia técnica con creatividad para desarrollar soluciones que impulsan el éxito de nuestros clientes.",
+    "journey": {
+      "title": "Nuestra Trayectoria",
+      "milestones": {
+        "2017": {
+          "title": "El Comienzo",
+          "description": "Fundación de Transformattion con un equipo de 3 desarrolladores apasionados por la innovación tecnológica."
+        },
+        "2018": {
+          "title": "Primeros Éxitos",
+          "description": "Expansión del equipo y primeros proyectos internacionales. Certificación como partners de AWS y Microsoft."
+        },
+        "2019": {
+          "title": "Innovación y Crecimiento",
+          "description": "Apertura de nueva oficina y lanzamiento de nuestra división de desarrollo móvil. +20 proyectos exitosos."
+        },
+        "2020": {
+          "title": "Adaptación y Resiliencia",
+          "description": "Transformación exitosa a trabajo remoto. Implementación de metodologías ágiles avanzadas y DevOps."
+        },
+        "2021": {
+          "title": "Expansión Tecnológica",
+          "description": "Integración de servicios cloud y soluciones de IA. Primeros proyectos de Machine Learning."
+        },
+        "2022": {
+          "title": "Consolidación Global",
+          "description": "Expansión a nuevos mercados internacionales. Certificación ISO 27001 en seguridad de la información."
+        },
+        "2023": {
+          "title": "Innovación Continua",
+          "description": "Lanzamiento de nuestra plataforma de servicios cloud. +100 proyectos exitosos y presencia global."
+        },
+        "2024": {
+          "title": "Revolución en IA",
+          "description": "Lanzamiento de nuestro laboratorio de IA y desarrollo de soluciones propias de Machine Learning. Implementación de sistemas predictivos avanzados."
+        },
+        "2025": {
+          "title": "Fábrica de Productos",
+          "description": "Creación de nuestra división de productos digitales propios. Desarrollo de SaaS innovadores y soluciones empresariales escalables."
+        }
+      }
+    },
+    "stats": {
+      "projects": "Proyectos Exitosos",
+      "clients": "Clientes Satisfechos",
+      "countries": "Países",
+      "team": "Expertos"
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "innovation": {
+        "title": "Innovación",
+        "description": "Buscamos constantemente nuevas formas de resolver desafíos tecnológicos"
+      },
+      "excellence": {
+        "title": "Excelencia",
+        "description": "Comprometidos con los más altos estándares de calidad"
+      },
+      "collaboration": {
+        "title": "Colaboración",
+        "description": "Trabajamos en estrecha colaboración con nuestros clientes"
+      },
+      "integrity": {
+        "title": "Integridad",
+        "description": "Transparencia y ética en todo lo que hacemos"
+      }
+    }
+  },
+  "chat": {
+    "title": "Chat en vivo",
+    "online": "Estamos en línea",
+    "offline": "No disponible",
+    "placeholder": "Escribe tu mensaje...",
+    "autoResponse": "¡Gracias por tu mensaje! En breve uno de nuestros asesores te atenderá. Mientras tanto, ¿hay algo específico en lo que podamos ayudarte?",
+    "startMessage": "¡Hola! 👋 Bienvenido a Transformattion. ¿En qué podemos ayudarte hoy?",
+    "emailPrompt": "Por favor, déjanos tu email para contactarte:",
+    "send": "Enviar",
+    "thankYou": "Gracias por contactarnos",
+    "helpText": "¿Necesitas ayuda?"
+  },
+  "clients": {
+    "title": "Nuestras Industrias",
+    "industries": {
+      "all": "Todos",
+      "tech": "Tecnología",
+      "finance": "Banca y Finanzas",
+      "healthcare": "Salud",
+      "retail": "Retail",
+      "education": "Educación"
+    },
+    "logos": [
+      {
+        "name": "Aligare",
+        "image": "/images/enterprises/aligare.jpg",
+        "industry": "tech"
+      },
+      {
+        "name": "Axity",
+        "image": "/images/enterprises/axity.jpg",
+        "industry": "tech"
+      },
+      {
+        "name": "Banco Chile",
+        "image": "/images/enterprises/banco_chile.jpg",
+        "industry": "finance"
+      },
+      {
+        "name": "Banco Estado",
+        "image": "/images/enterprises/banco_estado.jpg",
+        "industry": "finance"
+      },
+      {
+        "name": "BCI",
+        "image": "/images/enterprises/bci.jpg",
+        "industry": "finance"
+      },
+      {
+        "name": "Glencore",
+        "image": "/images/enterprises/glencore.jpg",
+        "industry": "tech"
+      },
+      {
+        "name": "Kibernum",
+        "image": "/images/enterprises/kibernum.jpg",
+        "industry": "tech"
+      },
+      {
+        "name": "Kyndryl",
+        "image": "/images/enterprises/kyndryl.jpg",
+        "industry": "tech"
+      },
+      {
+        "name": "Neoris",
+        "image": "/images/enterprises/neoris.jpg",
+        "industry": "tech"
+      },
+      {
+        "name": "SEA",
+        "image": "/images/enterprises/sea.jpg",
+        "industry": "tech"
+      },
+      {
+        "name": "UCChristus",
+        "image": "/images/enterprises/ucchristus.jpg",
+        "industry": "healthcare"
+      },
+      {
+        "name": "Cencosud",
+        "image": "/images/enterprises/cencosud.jpg",
+        "industry": "retail"
+      },
+      {
+        "name": "DGI",
+        "image": "/images/enterprises/dji.jpg",
+        "industry": "tech"
+      },
+      {
+        "name": "Entel",
+        "image": "/images/enterprises/entel.jpg",
+        "industry": "tech"
+      }
+    ]
+  }
+}
